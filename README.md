@@ -18,5 +18,7 @@ Estou animado para aplicar para aplicar minhas habilidades de filtragem e aprese
 
 Se estiver interessado em conversar comigo, aqui estão os meios:
 
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/andre-tagliatella-trolesi)
-- 📧 andretagliatellatrolesi@gmail.com
+- **LinkedIn** www.linkedin.com/in/andre-tagliatella-trolesi
+- **E-mail** andretagliatellatrolesi@gmail.com
+
+
