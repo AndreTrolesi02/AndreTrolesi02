@@ -2,6 +2,10 @@
   <h1>  Olá! Como vai? 👋 </h1>
 </p>
 
+## -> Bacharel em Ciências da Computação na UNISAGRADO.
+## -> Python (Bibliotecas Pandas, Numpy, Matplotlib, Seaborn, Scipy e Scikit-learn).
+## -> Tableau.
+
 ### 📊 Analista de Dados | 💻 Bacharel em Ciência da Computação
 
 Meu nome é André Tagliatella Trolesi e sou um profissional júnior em análise de dados. Desde minha infância fui fascinado por tecnologia e por causa disso, escolhi me formar em Ciência da Computação no Centro Universitário Sagrado Coração (**UNISAGRADO**) e atualmente estou expandindo meus conhecimentos para IA na Universidade Virtual do Estado de São Paulo (**Univesp**).
