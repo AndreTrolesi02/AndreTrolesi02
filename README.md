@@ -3,7 +3,9 @@
 </p>
 
 -> Bacharel em Ciências da Computação na UNISAGRADO.
+
 -> Python (Bibliotecas Pandas, Numpy, Matplotlib, Seaborn, Scipy e Scikit-learn).
+
 -> Tableau.
 
 ### 📊 Analista de Dados | 💻 Bacharel em Ciência da Computação
