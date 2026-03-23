@@ -2,9 +2,9 @@
   <h1>  Olá! Como vai? 👋 </h1>
 </p>
 
-## -> Bacharel em Ciências da Computação na UNISAGRADO.
-## -> Python (Bibliotecas Pandas, Numpy, Matplotlib, Seaborn, Scipy e Scikit-learn).
-## -> Tableau.
+# -> Bacharel em Ciências da Computação na UNISAGRADO.
+# -> Python (Bibliotecas Pandas, Numpy, Matplotlib, Seaborn, Scipy e Scikit-learn).
+# -> Tableau.
 
 ### 📊 Analista de Dados | 💻 Bacharel em Ciência da Computação
 
